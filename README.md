@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **c.O.toujours**
+* **sage kabidu**
 
 ## License
 
